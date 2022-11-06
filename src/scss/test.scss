@@ -1,0 +1,17 @@
+header {
+    li {
+        color: red;
+    }
+}
+
+.loco {
+    background-color: aqua;
+    display: block !important;
+    a {
+        color: blue($color: #000000);
+    }
+}
+
+a {
+    color: black;
+}
